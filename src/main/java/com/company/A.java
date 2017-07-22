@@ -44,6 +44,7 @@ public class A {
         System.out.println(integer);
         System.out.println(integer);
         System.out.println(integer);
+        System.out.println(integer);
         return integer; // your implementation here
     }
 
