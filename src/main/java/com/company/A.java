@@ -42,6 +42,8 @@ public class A {
             integer = integer.multiply(BigInteger.valueOf(value--));
         }
         System.out.println(integer);
+        System.out.println(integer);
+        System.out.println(integer);
         return integer; // your implementation here
     }
 
