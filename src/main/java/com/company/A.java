@@ -45,6 +45,7 @@ public class A {
         System.out.println(integer);
         System.out.println(integer);
         System.out.println(integer);
+        System.out.println("Hellow new branch new_f");
         return integer; // your implementation here
     }
 
