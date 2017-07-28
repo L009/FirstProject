@@ -45,6 +45,7 @@ public class A {
         System.out.println(integer);
         System.out.println(integer);
         System.out.println(integer);
+        System.out.println("branch master");
         return integer; // your implementation here
     }
 
