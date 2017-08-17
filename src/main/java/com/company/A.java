@@ -45,11 +45,7 @@ public class A {
         System.out.println(integer);
         System.out.println(integer);
         System.out.println(integer);
-<<<<<<< HEAD
         System.out.println("Hellow new branch new_f second commit");
-=======
-        System.out.println("branch master");
->>>>>>> master
         return integer; // your implementation here
     }
 
