@@ -45,7 +45,7 @@ public class A {
         System.out.println(integer);
         System.out.println(integer);
         System.out.println(integer);
-        System.out.println("commit new_f");
+        System.out.println("branch master 2");
         return integer; // your implementation here
     }
 
